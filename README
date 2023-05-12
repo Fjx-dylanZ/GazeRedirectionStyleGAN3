@@ -1,4 +1,4 @@
-## Model checkpoint/weights
+# Model checkpoint/weights
 
 Place the model checkpoints in `./pretrained/` directory.
 
